@@ -42,42 +42,29 @@ To ensure compatibility and smooth operations, the selection of the right hardwa
 
 1. **Clone the repository**:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/Vishukk1503/insurancemanagement.git
    ```
 
 2. **Navigate to the directory**:
    ```bash
-   cd [repository-directory]
+   cd Insurance-Management-System
    ```
 
 3. **Install the necessary software** (as mentioned above).
 
 4. **Setup the database** using My SQL.
 
-5. **Run the application**:
-   ```bash
-   [command-to-run-the-app]
-   ```
-
----
-
-### Contributing:
-
-We welcome contributions! Please refer to the `CONTRIBUTING.md` file for detailed information on how you can contribute or submit bug reports.
 
 ---
 
 ### License:
 
-This project is licensed under the [LICENSE-NAME]. See the `LICENSE` file for more details.
+This project is licensed under the public licence. See the `LICENSE` file for more details.
 
 ---
 
 ### Contact:
 
-For more information, issues, or questions regarding the "Online Insurance System", please reach out via the repository's issue tracker or contact [your-email@example.com].
+For more information, issues, or questions regarding the "Online Insurance System", please reach out via the repository's issue tracker or contact vishwanathakanchaboina@gmail.com.
 
----
-
-Thank you for choosing the Online Insurance System. We hope to provide you with the best experience possible. 
 
